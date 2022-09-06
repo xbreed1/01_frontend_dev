@@ -1,0 +1,19 @@
+.menu{
+    background-color: rgb(116, 116, 172);
+}
+
+.menu, ul, li, a {
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+    margin: 14px;
+    color:khaki;
+    justify-content: center;
+    
+    
+}
+
+a:hover{
+    background-color: rgb(147, 92, 24);
+   }
+
